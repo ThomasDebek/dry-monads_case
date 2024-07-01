@@ -72,3 +72,5 @@ group :test do
 end
 
 gem "dry-monads", "~> 1.6"
+
+gem "faker", "~> 3.4"
