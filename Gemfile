@@ -70,3 +70,7 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+gem "dry-monads", "~> 1.6"
+
+gem "faker", "~> 3.4"
